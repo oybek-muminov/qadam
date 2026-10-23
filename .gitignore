@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.log
+.preview.json
+# Local handoff and incident notes; publish only source and project documentation.
+QA.md
+DEPLOYMENT.md
